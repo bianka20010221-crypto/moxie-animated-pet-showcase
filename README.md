@@ -2,6 +2,10 @@
 
 Moxie egy egyedi, 11 állapotsoros, 88 cellás v2 animációs sprite atlasz. A projekt a vizuális karaktertervezést, az animációs állapotmodellt és a gépi minőségellenőrzést kapcsolja össze.
 
+## English summary
+
+Moxie is a custom animated desktop-pet showcase built as a validated 8×11 RGBA sprite atlas. The repository demonstrates state-based character animation, transparent-asset quality checks and a reviewable contact sheet.
+
 ![Moxie contact sheet](assets/moxie-contact-sheet.png)
 
 ## Állapotok
@@ -36,4 +40,3 @@ flowchart LR
 - `validation-summary.json` — publikálható QA-összefoglaló.
 
 Az asset egyedi portfóliómunka; külön engedély nélkül nem használható fel más termékben.
-
